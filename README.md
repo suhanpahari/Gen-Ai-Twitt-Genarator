@@ -19,12 +19,10 @@
    git clone https://github.com/suhanpahari/Gen-Ai-Twitt-Genarator.git
    cd Gen-Ai-Twitt-Genarator
 - **2. Install the dependencies:**
-
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 - **3. Run the app:**
-
-streamlit run app.py
+   streamlit run app.py
 
 ---
 
