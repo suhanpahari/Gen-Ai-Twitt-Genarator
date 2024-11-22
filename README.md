@@ -14,20 +14,24 @@
 
 ## 🛠️ Installation
 
-## 1. Clone this repository:
+- **1. Clone this repository:**
 
    git clone https://github.com/suhanpahari/Gen-Ai-Twitt-Genarator.git
    cd Gen-Ai-Twitt-Genarator
-## Install the dependencies:
+- **2. Install the dependencies:**
 
 pip install -r requirements.txt
 
-## Run the app:
+- **3. Run the app:**
 
 streamlit run app.py
 
+---
+
 ## 📦 Requirements
 [requirments.txt](https://github.com/suhanpahari/Gen-Ai-Twitt-Genarator/blob/main/requirements.txt)
+
+---
 
 ## 🖼️ Interface Overview
 The app features a sleek, user-friendly interface where you can:
@@ -40,16 +44,24 @@ Specify the post length and language.
 Select hashtag categories or input your own.
 Generate your Twitter post along with suggested hashtags.
 
+---
 
 ## 📖 How to Use
 - **Customize Your Post:** Use the sidebar to select a topic, length, language, and hashtag options.
 - **Generate the Post:** Click on the "Generate Post" button.
 - **Copy and Share:** Review the generated post and hashtags, then copy and share directly on Twitter.
+
+---
+
 ## 🚀 Contributions
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to improve the app.
 
+---
+
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache License. See the LICENSE file for details.
+
+---
 
 ## 🔗 Links
 GitHub Repository: [Gen-AI Twitter Generator](https://github.com/suhanpahari/Gen-Ai-Twitt-Genarator)
