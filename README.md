@@ -27,7 +27,9 @@
 ---
 
 ## 📦 Requirements
-[requirments.txt](https://github.com/suhanpahari/Gen-Ai-Twitt-Genarator/blob/main/requirements.txt)
+All dependencies are listed in requirements.txt. Install them using:
+
+[pip install -r requirements.txt]
 
 ---
 
