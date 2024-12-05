@@ -1,6 +1,6 @@
 # Gen-AI Twitter Generator
 
-**Gen-AI Twitter Generator** is an intuitive tool designed to craft engaging, professional, and trend-aligned Twitter posts effortlessly. Leveraging advanced natural language generation, this app is built on cutting-edge AI models, including **Llama-3.2-90B-text-preview**, a state-of-the-art large language model known for its fluency, contextual understanding, and semantic relevance. It allows users to customize their posts based on topics, length, language, and hashtags, ensuring precise alignment with their audience and content strategy.  
+**Gen-AI Twitter Generator** is an intuitive tool designed to craft engaging, professional, and trend-aligned Twitter posts effortlessly. Leveraging advanced natural language generation, this app is built on cutting-edge AI models, including **Llama-3.2-90B-vision-preview**, a state-of-the-art large language model known for its fluency, contextual understanding, and semantic relevance. It allows users to customize their posts based on topics, length, language, and hashtags, ensuring precise alignment with their audience and content strategy.  
 
 ## 🌟 Features
 - **Customizable Posts**: Select topics, desired length (Short, Medium, Long), and language (English, Hinglish).
